@@ -1,8 +1,5 @@
-
+#!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
 
 from operator import itemgetter
 from collections import defaultdict
